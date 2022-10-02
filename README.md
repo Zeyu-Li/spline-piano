@@ -4,7 +4,7 @@ A working online Piano build with [Spline 💖](https://spline.design/)
 
 ### Wireframe Version
 
-![wireframe.png](./img/demo.gif)
+[![wireframe.png](./img/demo.gif)](https://piano.andrewli.site/)
 
 Demo: [piano.andrewli.site](https://piano.andrewli.site/)
 
@@ -15,7 +15,7 @@ Mouse clicks are not supported as of now
 
 ### Colored Version
 
-![colored](./img/colored.png)
+[![colored](./img/colored.png)](https://piano.andrewli.site/color.html)
 
 Demo: [piano.andrewli.site/color.html](https://piano.andrewli.site/color.html)
 
